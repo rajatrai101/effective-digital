@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rajatrai101/effective-digital/static/css/main.94416350.chunk.css",
-    "main.js": "/rajatrai101/effective-digital/static/js/main.8a4c9c87.chunk.js",
-    "main.js.map": "/rajatrai101/effective-digital/static/js/main.8a4c9c87.chunk.js.map",
-    "runtime~main.js": "/rajatrai101/effective-digital/static/js/runtime~main.2b1c7fd1.js",
-    "runtime~main.js.map": "/rajatrai101/effective-digital/static/js/runtime~main.2b1c7fd1.js.map",
-    "static/js/2.1320aebf.chunk.js": "/rajatrai101/effective-digital/static/js/2.1320aebf.chunk.js",
-    "static/js/2.1320aebf.chunk.js.map": "/rajatrai101/effective-digital/static/js/2.1320aebf.chunk.js.map",
-    "index.html": "/rajatrai101/effective-digital/index.html",
-    "precache-manifest.6647aa00e3d02a0b49e8f6bded072d59.js": "/rajatrai101/effective-digital/precache-manifest.6647aa00e3d02a0b49e8f6bded072d59.js",
-    "service-worker.js": "/rajatrai101/effective-digital/service-worker.js",
-    "static/css/main.94416350.chunk.css.map": "/rajatrai101/effective-digital/static/css/main.94416350.chunk.css.map"
+    "main.css": "/effective-digital-demo/static/css/main.07c8ab2c.chunk.css",
+    "main.js": "/effective-digital-demo/static/js/main.4c9161b9.chunk.js",
+    "main.js.map": "/effective-digital-demo/static/js/main.4c9161b9.chunk.js.map",
+    "runtime~main.js": "/effective-digital-demo/static/js/runtime~main.9b43dd75.js",
+    "runtime~main.js.map": "/effective-digital-demo/static/js/runtime~main.9b43dd75.js.map",
+    "static/js/2.57273787.chunk.js": "/effective-digital-demo/static/js/2.57273787.chunk.js",
+    "static/js/2.57273787.chunk.js.map": "/effective-digital-demo/static/js/2.57273787.chunk.js.map",
+    "index.html": "/effective-digital-demo/index.html",
+    "precache-manifest.58eb910510ac41426c72554b317d8ef8.js": "/effective-digital-demo/precache-manifest.58eb910510ac41426c72554b317d8ef8.js",
+    "service-worker.js": "/effective-digital-demo/service-worker.js",
+    "static/css/main.07c8ab2c.chunk.css.map": "/effective-digital-demo/static/css/main.07c8ab2c.chunk.css.map"
   }
 }
