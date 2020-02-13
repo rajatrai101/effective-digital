@@ -9,9 +9,10 @@ import './App.scss';
   return (
     <div className="App">
       <header className="App-header">
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
         <NavBar/>
           <Switch>
+            <Route path="/" component={GalleryView}  />
             <Route path="/animals" component={GalleryView}  />
             <Route path="/fruitveg" component={GalleryView}/> />
           </Switch>
