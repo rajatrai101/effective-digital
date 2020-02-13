@@ -2,7 +2,7 @@
   "name": "effective-digital-demo",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://rajatrai101.github.io/effective-digital-demo/",
+  "homepage": "https://rajatrai101.github.io/effective-digital-demo",
   "dependencies": {
     "@material-ui/core": "^4.4.2",
     "node-sass": "^4.12.0",
