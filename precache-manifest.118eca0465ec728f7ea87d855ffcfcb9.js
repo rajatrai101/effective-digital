@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8bcc250772f6151e719283e46004cfe7",
+    "revision": "278dbd7ad51abb60cae0fbdfc096f40c",
     "url": "/effective-digital-demo/index.html"
   },
   {
-    "revision": "38e53eb4b8ca83697c8b",
+    "revision": "4e8c82d7283c6de1bec8",
     "url": "/effective-digital-demo/static/css/main.07c8ab2c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/effective-digital-demo/static/js/2.57273787.chunk.js"
   },
   {
-    "revision": "38e53eb4b8ca83697c8b",
-    "url": "/effective-digital-demo/static/js/main.4c9161b9.chunk.js"
+    "revision": "4e8c82d7283c6de1bec8",
+    "url": "/effective-digital-demo/static/js/main.c6f5a0b9.chunk.js"
   },
   {
     "revision": "20e32164df2332e87326",
